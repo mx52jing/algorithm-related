@@ -11,3 +11,4 @@
 - [3-无重复字符的最长子串](./javascript-algorithm-practice/3-无重复字符的最长子串.md)
 - [35-搜索插入位置](./javascript-algorithm-practice/35-搜索插入位置.md)
 - [14-最长公共前缀](./javascript-algorithm-practice/14-最长公共前缀.md)
+- [58-最后一个单词的长度](./javascript-algorithm-practice/58-最后一个单词的长度.md)
