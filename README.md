@@ -12,3 +12,4 @@
 - [35-搜索插入位置](./javascript-algorithm-practice/35-搜索插入位置.md)
 - [14-最长公共前缀](./javascript-algorithm-practice/14-最长公共前缀.md)
 - [58-最后一个单词的长度](./javascript-algorithm-practice/58-最后一个单词的长度.md)
+- [136-只出现一次的数字](./javascript-algorithm-practice/136-只出现一次的数字.md)
