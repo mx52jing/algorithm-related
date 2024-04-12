@@ -13,3 +13,8 @@
 - [14-最长公共前缀](./javascript-algorithm-practice/14-最长公共前缀.md)
 - [58-最后一个单词的长度](./javascript-algorithm-practice/58-最后一个单词的长度.md)
 - [136-只出现一次的数字](./javascript-algorithm-practice/136-只出现一次的数字.md)
+- [LCR-018-验证回文串](./javascript-algorithm-practice/LCR-018-验证回文串.md)
+- [9-回文数](./javascript-algorithm-practice/9-回文数.md)
+- [17-电话号码的字母组合](./javascript-algorithm-practice/17-电话号码的字母组合)
+- [202-快乐数](./javascript-algorithm-practice/202-快乐数.md)
+- [485-最大连续1的个数](./javascript-algorithm-practice/485-最大连续1的个数.md)
