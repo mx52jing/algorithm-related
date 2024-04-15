@@ -18,3 +18,5 @@
 - [17-电话号码的字母组合](./javascript-algorithm-practice/17-电话号码的字母组合)
 - [202-快乐数](./javascript-algorithm-practice/202-快乐数.md)
 - [485-最大连续1的个数](./javascript-algorithm-practice/485-最大连续1的个数.md)
+- [628-三个数的最大乘积.md](./javascript-algorithm-practice/628-三个数的最大乘积.md)
+- [414-第三大的数.md](./javascript-algorithm-practice/414-第三大的数.md)
