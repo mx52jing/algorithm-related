@@ -22,3 +22,5 @@
 - [414-第三大的数](./javascript-algorithm-practice/414-第三大的数.md)
 - [520-检测大写字母](./javascript-algorithm-practice/520-检测大写字母.md)
 - [977-有序数组的平方](./javascript-algorithm-practice/977-有序数组的平方.md)
+- [209-长度最小的子数组](./javascript-algorithm-practice/209-长度最小的子数组.md)
+- [203-移除链表元素.md](./javascript-algorithm-practice/203-移除链表元素.md)
