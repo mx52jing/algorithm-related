@@ -24,3 +24,4 @@
 - [977-有序数组的平方](./javascript-algorithm-practice/977-有序数组的平方.md)
 - [209-长度最小的子数组](./javascript-algorithm-practice/209-长度最小的子数组.md)
 - [203-移除链表元素.md](./javascript-algorithm-practice/203-移除链表元素.md)
+- [707-设计链表](./javascript-algorithm-practice/707-设计链表.md)
