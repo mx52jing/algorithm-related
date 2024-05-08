@@ -27,3 +27,4 @@
 - [707-设计链表](./javascript-algorithm-practice/707-设计链表.md)
 - [206-反转链表](./javascript-algorithm-practice/206-反转链表.md)
 - [24-两两交换链表中的节点](./javascript-algorithm-practice/24-两两交换链表中的节点.md)
+- [19-删除链表的倒数第N个结点](./javascript-algorithm-practice/19-删除链表的倒数第N个结点.md)
