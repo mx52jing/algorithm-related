@@ -32,3 +32,4 @@
 - [349-两个数组的交集](./javascript-algorithm-practice/349-两个数组的交集.md)
 - [454-四数相加II](./javascript-algorithm-practice/454-四数相加II.md)
 - [15-三数之和](./javascript-algorithm-practice/15-三数之和.md)
+- [18-四数之和](./javascript-algorithm-practice/18-四数之和.md)
